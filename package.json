@@ -1,5 +1,5 @@
 {
-  "name": "TCTM/sdk",
+  "name": "TCTM-sdk",
   "license": "MIT",
   "version": "1.00.4",
   "description": "An SDK for building applications on top of TalkCryptToMe.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/talkcryptome/TCTM-SDK2.git",
+  "repository": "https://github.com/talkcryptome/TCTM-SDK.git",
   "keywords": [
     "TCTM",
     "bsc"
