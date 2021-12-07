@@ -74,8 +74,8 @@ export const WETH = {
     'Wrapped BNB',
     'https://www.binance.org'
   ),
-  [ChainId.TESTNET]: new Token(
-    ChainId.TESTNET,
+  [ChainId.BSCTESTNET]: new Token(
+    ChainId.BSCTESTNET,
     '0xAC7C508859B2dd442e260CC5Ae647A6D5D7dB806',
     18,
     'WBNB',
